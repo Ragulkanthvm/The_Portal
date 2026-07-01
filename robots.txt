@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 User-agent: *
 Allow: /
 
 Sitemap: https://www.healthcareleadershipacademy.com/sitemap.xml
+=======
+User-agent: *
+Allow: /
+
+Sitemap: https://www.healthcareleadershipacademy.com/sitemap.xml
+>>>>>>> c523efe (Improve SEO metadata and add site assets)
